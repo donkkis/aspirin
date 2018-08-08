@@ -7,6 +7,7 @@ The original trial featured 22 071 participants, out of which 11 037 were random
 At present, two files are uploaded to the repository
 
 aspirin_paho_report.pdf describes the methods used along with results and discussion
+
 aspirin_paho.m includes the actual implementation in MATLAB
 
 # Disclaimer
