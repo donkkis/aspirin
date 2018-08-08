@@ -16,4 +16,4 @@ This is an excercise work done at TUT Pori's statistical methods course in Sprin
 
 # References
 
-[1]	Steering Committee of the Physicians’ Health Study Research Group. 1989. Fi-nal Report on the Aspirin Component of the Ongoing Physicians’ Health Study. Available https://www.nejm.org/doi/full/10.1056/NEJM198907203210301 
+[1]	Steering Committee of the Physicians’ Health Study Research Group. 1989. Final Report on the Aspirin Component of the Ongoing Physicians’ Health Study. Available https://www.nejm.org/doi/full/10.1056/NEJM198907203210301 
