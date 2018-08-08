@@ -12,7 +12,7 @@ aspirin_paho.m includes the actual implementation in MATLAB
 
 # Disclaimer
 
-This is an excercise work done at TUT Pori's statistical methods course in Spring 2018. While the solution was in fact accepted with full marks by the reviewing professor, any scientific/professional use of this solution is discouraged. Instead, the interested reader is referred to the original article [1]
+This is an excercise work done at TUT Pori's statistical methods course in Spring 2018. While the solution was in fact accepted with full marks by the reviewing professor, any scientific/professional use beyond reviewing purposes is discouraged. Instead, the interested reader is referred to the original article [1]
 
 # References
 
